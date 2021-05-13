@@ -1,7 +1,7 @@
 # Vijeta - The Indoors Slot Booking
-
-![have a look](https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/1.gif)
-![have a look](https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/2.gif)
+<img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/logo_.png" />
+![have a look !](https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/1.gif)
+![have a look !!](https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/2.gif)
 # Introduction
 Designed with these following main objectives:-
 1. To reduce the physical efforts in accessing the sports fields and equipment .
@@ -44,8 +44,8 @@ new online booking trend.
 4. To prevent un-preferable bookings, the system should respond likewise and also a
 coordinator will be coordinating the whole process.
 
-# Logo
-<img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/logo_.png" />
+# Working Tool
+
 <img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/15.png" />
 <img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/14.png" />
 <img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/13.png" />
