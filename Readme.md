@@ -45,4 +45,14 @@ new online booking trend.
 coordinator will be coordinating the whole process.
 
 # Logo
-<img src="https://github.com/5ilenceSeeker/the-news-reporter/blob/main/Screenshots/news1.png" />
+<img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/logo_.png" />
+<img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/13.png" />
+<img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/14.png" />
+<img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/15.png" />
+<img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/17.png" />
+<img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/18.png" />
+<img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/19.png" />
+<img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/20.png" />
+<img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/21.png" />
+<img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/22.png" />
+
