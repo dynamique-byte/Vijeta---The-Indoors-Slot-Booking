@@ -31,16 +31,10 @@ new online booking trend.
 
 
 # Proposed Solution
-To develop a system with following Objectives:-
-1.To develop a mono controlled application for the fore-said purpose, to avoid unauthentic usage of resources.
-2.The Sport facility booking application enables students and staff to save their time and
-increase convenience to book the sport facility and equipment. They just choose the
-required available time slot by clicking a few buttons then to complete the booking
-process.
+1.To develop a mono controlled application for the fore-said purpose, to avoid unauthentic usage of resources. 
+2.The Sport facility booking application enables students and staff to save their time and increase convenience to book the sport facility and equipment. They just choose the required available time slot by clicking a few buttons then to complete the booking process.
 3. To develop a viewable time slot to display status of the sport facility or equipment.
-4. It provides the better utilization of sports resources .Though the distribution of the
-resources is balanced, in some un-preferable cases,the bookings will get restricted also with
-a proper notification
+4. It provides the better utilization of sports resources .Though the distribution of the resources is balanced, in some un-preferable cases,the bookings will get restricted also with a proper notification
 
 
 ##  User Requirements
