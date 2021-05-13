@@ -45,3 +45,4 @@ new online booking trend.
 coordinator will be coordinating the whole process.
 
 # Logo
+<img src="https://github.com/5ilenceSeeker/the-news-reporter/blob/main/Screenshots/news1.png" />
