@@ -1,6 +1,6 @@
 # Vijeta - The Indoors Slot Booking
 
-![grab-landing-page](https://github.com/winnie1312/grab/blob/master/grab-landingpage-winnie.gif)
+![have a look](https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/1.mp4)
 # Introduction
 Designed with these following main objectives:-
 1. To reduce the physical efforts in accessing the sports fields and equipment .
