@@ -15,10 +15,8 @@ restricted also with a proper notification The admins are the coordinators and s
 varying levels of control. They will coordinate the whole application . Like from the login into
 system to creating new booking entries and updating them .The coordinators accept the feedback
 regarding the application and pass it on to the supervisors who can resolve the issues.
-5.Five sub modules are there for 4 different sports and one for previous history and
-bookings check.
-6.Also Resources distributions will be facilitated as well for proper functioning of
-the application.
+5. Five sub modules are there for 4 different sports and one for previous history and bookings check.
+6. Also Resources distributions will be facilitated as well for proper functioning of the application.
 
 ## Problem Description
 Very Often, sports venues have such problems as places idled, venues are filled at the high
@@ -31,17 +29,17 @@ new online booking trend.
 
 
 # Proposed Solution
-1.To develop a mono controlled application for the fore-said purpose, to avoid unauthentic usage of resources. 
-2.The Sport facility booking application enables students and staff to save their time and increase convenience to book the sport facility and equipment. They just choose the required available time slot by clicking a few buttons then to complete the booking process.
+1. To develop a mono controlled application for the fore-said purpose, to avoid unauthentic usage of resources. 
+2. The Sport facility booking application enables students and staff to save their time and increase convenience to book the sport facility and equipment. They just choose the required available time slot by clicking a few buttons then to complete the booking process.
 3. To develop a viewable time slot to display status of the sport facility or equipment.
 4. It provides the better utilization of sports resources .Though the distribution of the resources is balanced, in some un-preferable cases,the bookings will get restricted also with a proper notification
 
 
-##  User Requirements
-1.The user should be able to book a sport venue based on a particular category and on particular date,time etc.
-2.The user should be able to check for all the empty available slots to make it easy for the booking process.
-3.The user should be able to check out the resources distributions based on a particular category.
-4.To prevent un-preferable bookings, the system should respond likewise and also a
+#  User Requirements
+1. The user should be able to book a sport venue based on a particular category and on particular date,time etc.
+2. The user should be able to check for all the empty available slots to make it easy for the booking process.
+3. The user should be able to check out the resources distributions based on a particular category.
+4. To prevent un-preferable bookings, the system should respond likewise and also a
 coordinator will be coordinating the whole process.
 
 # Logo
@@ -50,11 +48,13 @@ coordinator will be coordinating the whole process.
 <img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/14.png" />
 <img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/13.png" />
 
-# Boundary Constraints
+# Booked
 <img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/17.png" />
+
+# Boundary Constraints
 <img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/18.png" />
 <img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/19.png" />
 <img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/20.png" />
 <img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/21.png" />
-<img src="https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/22.png" />
+
 
