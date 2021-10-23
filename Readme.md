@@ -3,7 +3,6 @@
 
 
 ![have a look !](https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/1.gif)
-![have a look !!](https://github.com/5ilenceSeeker/Vijeta---The-Indoors-Slot-Booking/blob/main/img/2.gif)
 
 
 # Introduction
@@ -13,16 +12,7 @@ Designed with these following main objectives:-
 and increase convenience to book the sport facility and equipment. They just choose
 the required available time slot by clicking a few buttons then to complete the
 booking process.
-3. It provides the better utilization of sports resources
-4. In this project we have 2 modules, admin and student/staff.
-The students can booked the sport fields with an ease according to their choices. Though the
-distribution of the resources is balanced, in some un-preferable cases,the bookings will get
-restricted also with a proper notification The admins are the coordinators and supervisors with
-varying levels of control. They will coordinate the whole application . Like from the login into
-system to creating new booking entries and updating them .The coordinators accept the feedback
-regarding the application and pass it on to the supervisors who can resolve the issues.
-5. Five sub modules are there for 4 different sports and one for previous history and bookings check.
-6. Also Resources distributions will be facilitated as well for proper functioning of the application.
+
 
 ## Problem Description
 Very Often, sports venues have such problems as places idled, venues are filled at the high
